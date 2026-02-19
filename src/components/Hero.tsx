@@ -9,7 +9,7 @@ export default function Hero() {
           src="/images/hero-main.jpg"
           alt="木漏れ日の美しい自然の風景"
           fill
-          className="object-cover object-top scale-110"
+          className="object-cover"
           priority
         />
         <div className="absolute inset-0 bg-white/30" />

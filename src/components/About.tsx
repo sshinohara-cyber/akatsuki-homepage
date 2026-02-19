@@ -35,7 +35,7 @@ export default function About() {
               src="/images/hero-sub.jpg"
               alt="AKATSUKIのブランドイメージ"
               fill
-              className="object-cover object-top scale-110"
+              className="object-cover"
             />
           </div>
 
