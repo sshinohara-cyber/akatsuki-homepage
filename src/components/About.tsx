@@ -30,12 +30,12 @@ export default function About() {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
           {/* Image */}
-          <div className="relative aspect-[4/5] overflow-hidden">
+          <div className="relative aspect-[3/4] overflow-hidden">
             <Image
               src="/images/hero-sub.jpg"
               alt="AKATSUKIのブランドイメージ"
               fill
-              className="object-cover"
+              className="object-cover object-top scale-110"
             />
           </div>
 
